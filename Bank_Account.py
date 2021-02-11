@@ -25,7 +25,7 @@ class account:
         print("new balance is :",self.balance)
 
 
-account = account(" ismail Gorenek",1000,3000)
+account = account(" Kamil",1000,3000)
 account.accountInfo()
 
 
